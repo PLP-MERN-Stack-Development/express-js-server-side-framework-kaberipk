@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "68db8582ee8ca7fc59535584"
+  },
+  "product": "Laptop",
+  "category": "Electronics",
+  "price": 999,
+  "quantity": 2,
+  "date": "2024-01-15"
+},
+{
+  "_id": {
+    "$oid": "68db8582ee8ca7fc59535585"
+  },
+  "product": "Mouse",
+  "category": "Electronics",
+  "price": 25,
+  "quantity": 5,
+  "date": "2024-01-16"
+},
+{
+  "_id": {
+    "$oid": "68db8582ee8ca7fc59535586"
+  },
+  "product": "Notebook",
+  "category": "Stationery",
+  "price": 5,
+  "quantity": 10,
+  "date": "2024-01-15"
+},
+{
+  "_id": {
+    "$oid": "68db8582ee8ca7fc59535587"
+  },
+  "product": "Keyboard",
+  "category": "Electronics",
+  "price": 75,
+  "quantity": 3,
+  "date": "2024-01-17"
+}]
